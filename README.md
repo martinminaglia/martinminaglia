@@ -12,14 +12,14 @@
 ## Conocimientos / Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link)]
-[![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=c++&link)]
-[![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=white&link)]
-
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link)]
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link)]
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link)]
+
+[![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=c++&link)]
+[![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=white&link)]
 
 ---
 
