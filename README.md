@@ -20,6 +20,7 @@
 [![Sass](https://img.shields.io/badge/-Sass-violet?style=flat-square&logo=sass&link)]
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link)]
+[![Redux](https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux&link)]
 
 
 [![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=c++&link)]
