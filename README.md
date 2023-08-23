@@ -20,9 +20,10 @@
 [![Sass](https://img.shields.io/badge/-Sass-violet?style=flat-square&logo=sass&link)]
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link)]
+[![Node](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node&link)]
+
+
 [![Redux](https://img.shields.io/badge/-Redux-violet?style=flat-square&logo=redux&link)]
-
-
 [![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=c++&link)]
 [![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=white&link)]
 
