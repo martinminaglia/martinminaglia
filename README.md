@@ -15,12 +15,14 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link)]
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link)]
 [![BootStrap](https://img.shields.io/badge/-BootStrap-violet?style=flat-square&logo=bootstrap&link)]
+[![Node.js](https://img.shields.io/badge/-Node.js-8ef05d?style=flat-square&logo=node&link)]
+
 
 [![Less](https://img.shields.io/badge/-Less-blue?style=flat-square&logo=less&link)]
 [![Sass](https://img.shields.io/badge/-Sass-violet?style=flat-square&logo=sass&link)]
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link)]
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link)]
-[![Node.js](https://img.shields.io/badge/-Node.js-8ef05d?style=flat-square&logo=node&link)]
+
 
 
 [![Redux](https://img.shields.io/badge/-Redux-violet?style=flat-square&logo=redux&link)]
